@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hi World</string>
+    <string name="hello_kitty">Hello KITTY!</string>
+    <string name="todo">TODO</string>
+    <string name="hi_kitty">Hi KITTY</string>
+    <string name="But_hi">Приветствие</string>
+    <string name="ButCounterText">Считаем ворон</string>
+</resources>
